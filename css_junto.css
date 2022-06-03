@@ -16,7 +16,7 @@ body{
   src: url(fuentes/Hellix/Hellix-Bold.ttf);
 }
 /**TEST **/
-html {
+html { 
   min-height: 100%;
   position: relative;
 }
